@@ -2,6 +2,9 @@
 
 Materialien zum dreiwöchigen Schülerpraktikum 2021
 
+## Motivation
+
+Ziel des Praktikums ist die Vermittlung der Grundlagen im Bereich der professionellen Softwareentwicklung. Im ersten Teil wird der Focus auf das Programmieren mit Python gelegt. In diesem Zusammenhang werden auch die in der Softwareentwicklung genutzten Werkzeuge diskutiert und deren Nutzen verdeutlicht. Der zweite Teil beschäftigt sich mit einem kleinen Softwareprojekt in dem der Lebenszyklus einer Software (Analyse, Design, Entwicklung, Test/Integration, Auslieferung, Wartung/Support) vermittelt wird. Der dritte und letzte Teil beschäftigt sich mit der agilen Arbeitsweise im open-source Projekt [GAMS Studio](https://github.com/GAMS-dev/studio).
 
 ## Programmiersprachen
 
@@ -12,7 +15,13 @@ Materialien zum dreiwöchigen Schülerpraktikum 2021
   - [Qt](https://www.qt.io)
     - Nutzbar mit C++ und Python
 
-## Tools
+## Softwareentwicklungsprozesse/-methoden
+
+- [Scrum](https://www.scrum.org/resources/what-is-scrum)
+  - https://de.wikipedia.org/wiki/Scrum
+- [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung))
+
+## Tools/Werkzeuge
 
 - Chat/Meeting
   - [Mattermost](https://mattermost.com)
