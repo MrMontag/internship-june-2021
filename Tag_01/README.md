@@ -27,36 +27,42 @@ Let's get started!
 
 # Aufgaben
 
-Ein paar Aufgaben als Diskussionsgrundlage und zum Aufwärmen. Ziele ist es die Grundlagen zu Variablen, Ein-/Ausgabe, Strings und Funktionen durchzugehen.
+Ein paar Aufgaben als Diskussionsgrundlage und zum Aufwärmen. Ziele ist es die Grundlagen der Windows Eingabeaufforderung zu erlernen. Im Anschluss schauen wir uns an wie Variablen, Ein-/Ausgabe, Strings und Funktionen in Python funktionieren. Für die Aufgaben benötigst Du eine Kommandozeile, einen Texteditor und Python.
 
-## A-01: Hallo Welt!
+## A-01: Die Windows Eingabeaufforderung
 
-Schreibe ein "Hallo Welt" Programm um Deine Python Umgebung und Tools zu testen. Du benötigst dafür eine Kommandozeile, einen Texteditor und Python.
+Schaue Dir die unten Aufgeführten Befehle an und probiere sie aus. Du findest eine Übersicht unter https://ss64.com/nt/
 
-## A-02: Nutzer Interaktionen
+| Befehl        | Beschreibung   |
+| ------------- |:-------------:|
+| cat           | Schreibe auf die Standardausgabe |
+| cd            | Wechselt das Verzeichnis (change directory) |
+| copy          | Kopiert ein oder mehrere Dateien an eine andere Position |
+| del           | Löscht ein oder mehrere Dateien |
+| dir           | Listet die Dateien und Unterverzeichnisse eines Verzeichnisses auf |
+| echo          | Zeigt Meldungen an oder schaltet die Befehlsanzeige ein oder aus |
+| findstr       | Sucht nach Zeichenfolgen in Dateien |
+| mkdir         | Erstellt ein Verzeichniss |
+| pause         | Hält die Ausführung einer Batchdatei an |
+| rd            | Löscht ein Verzeichnis |
+| rem           | Leitet ein Kommentar ein |
 
-Erweitere Dein Hallo Welt Programm so das es Deinen Namen einliest, Dich begrüßt und fragt wie es dir geht. Behalte Deinen Code von A-01 indem du ihn
-Auskommentierst (single line comment).
+## A-02: Ein kleines Batch-Skript (Stapelverarbeitung)
 
-## A-03: Berechne das Quadrat von x
+Schreibe ein Batch-Skript das zwei Verzeichnisse anlegt und in jedes Verzeichnis eine Textdatei schreibt die einen von Dir gewählten Text enthält. Kopiere anschließend die Datei aus dem ersten Verzeichnis in das zweite und die aus dem zweiten Verzeichnis in das erste.
 
-Schreibe ein Programm das eine natürliche Zahl einliest, das Quadrat dieser Zahl berechnet und das Ergebnis ausgibt. Lagere die Berechnung des Quadrates
-in eine Funktion aus und nutze ein mehrzeiliges Kommentar (multi line comment) um zu dokumentieren wer das Programm geschrieben hat und was der Sinn des
-Programms ist. 
+## A-03: Hallo Welt!
 
-## A-04: Kommandozeilenparameter
+Schreibe ein "Hallo Welt!" Programm um Deine Python Umgebung und Tools zu testen.
 
-Erweitere Dein Programm von A-03 so das es Kommandozeilenparameter unterstützt. Wenn Deinem Programm ein nicht unterstützter Parameter übergeben wird dann
-informiere den Benutzer darüber, indem Du Benutzerhinweise in die Standardausgabe schreibst. Verwende zur Lösung das Python Module `argparse`. Wie kannst Du
-herausfinden wie `argparse` zu benutzen ist?
+## A-04: Der Python Interpreter
 
-**Beispiele:**
+Benutze den Python Interpreter um einfache Python Befehle auszuprobieren. Die Dokumentation des Interpreters findest du unter https://docs.python.org/3/tutorial/interpreter.html
 
-```
-python3 a-04_params.py --help
+## A-05: Ein paar Python Grundlagen
 
-python3 a-04_params.py -n 22
+Schreibe ein Python Skript das mehrere Sekunden wartet und Dir einen Timer anzeigt. Aktualisiere die Zeile in dem die Timer-Ausgabe steht, sodass Du dem Benutzer immer genau eine Zeile mit Timer-Informationen anzeigst. Falls Du Wiederholungen im Quelltext hast lagere sie in eine Funktion aus.
 
-python3 a-04_params.py --number 22
-```
+# Weiterführende Literatur und Links
 
+- 10 Finger schreiben lernen: https://www.tipp10.com/de/
