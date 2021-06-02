@@ -1,5 +1,6 @@
 # Motto des Tages
 
+Alles was zählt sind Argumente.
 
 # Agenda
 
@@ -29,4 +30,4 @@ python3 a-04_params.py --number 22
 
 # Weiterführende Literatur und Links
 
-- ???
+- Argparse Dokumentation: https://docs.python.org/3/library/argparse.html
