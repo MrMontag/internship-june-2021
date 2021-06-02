@@ -1,5 +1,6 @@
 # Motto des Tages
 
+Es ist alles eine Frage der Klasse.
 
 # Agenda
 
@@ -9,10 +10,11 @@
 
 # Aufgaben
 
-Weiter gehts mit Python. Ziele ist es die mit der Python Dokumentation zu arbeiten und einen Blick auf Kommandozeilenparameter zu werfen. Du arbeitest weiterhin mit einer Kommandozeile, einem Texteditor und Python.
+Weiter gehts mit Python... diesmal mit Klassen. Ziele ist es mit der Python Dokumentation zu arbeiten und Dir einen Einblick in die Welt der Klassen zu geben. Du arbeitest weiterhin mit einer Kommandozeile, einem Texteditor und Python.
 
-## A-01: 
+## A-01: Eine Fabrik baut Fahrräder
 
+Modelliere ein Klasse (Typ) für Fahrräder und überlege Dir wie Du eine Fabrik implementieren kannst die Dir beliebig viele Fahrräder baut.
 
 # Weiterführende Literatur und Links
 
