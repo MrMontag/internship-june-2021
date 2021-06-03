@@ -10,7 +10,7 @@ Alles was zählt sind Argumente.
 
 # Aufgaben
 
-Weiter gehts mit Python. Ziele ist es mit der Python Dokumentation zu arbeiten und einen Blick auf Kommandozeilenparameter (Argumente die einem Programm übergeben werden) zu werfen. Du arbeitest weiterhin mit einer Kommandozeile, einem Texteditor und Python.
+Weiter gehts mit Python. Ziele ist es mit der Python Dokumentation zu arbeiten und einen Blick auf Kommandozeilenparameter (Argumente die einem Programm übergeben werden) zu werfen. Du arbeitest weiterhin mit einer Kommandozeile, Notepad++ und Python.
 
 ## A-01: Versionen über Versionen
 
