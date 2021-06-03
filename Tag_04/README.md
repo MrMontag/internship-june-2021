@@ -22,5 +22,5 @@ Schreibe ein Programm das einen Geldbetrag einliest und diesen Betrag jeden Tag 
 
 # Weiterführende Literatur und Links
 
-- PyCharm: https://www.jetbrains.com/pycharm/
+- [PyCharm](https://www.jetbrains.com/pycharm/)
 
