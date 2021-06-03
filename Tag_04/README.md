@@ -10,7 +10,7 @@ Es ist alles eine Frage der Klasse.
 
 # Aufgaben
 
-Weiter gehts mit Python... diesmal mit Klassen. Ziele ist es mit der Python Dokumentation zu arbeiten und Dir einen Einblick in die Welt der Klassen zu geben. Du arbeitest weiterhin mit einer Kommandozeile, einem Texteditor, Python und machst Deine ersten Versuche mit einer IDE (PyCharm).
+Weiter gehts mit Python... diesmal mit Klassen. Ziele ist es mit der Python Dokumentation zu arbeiten und Dir einen Einblick in die Welt der Klassen zu geben. Du arbeitest weiterhin mit einer Kommandozeile, Notepad++, Python und machst Deine ersten Versuche mit einer IDE (PyCharm).
 
 ## A-01: Eine Fabrik baut Fahrräder
 
