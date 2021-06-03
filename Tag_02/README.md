@@ -10,7 +10,7 @@ Grundlagen, Grundlagen, Grundlagen, ...
 
 # Aufgaben
 
-Weiter gehts mit Python. Ziele ist es die Grundlagen zu Variablen, Ein-/Ausgabe, Strings und Funktionen weiter zu vertiefen. Du arbeitest weiterhin mit einer Kommandozeile, einen Texteditor und Python.
+Weiter gehts mit Python. Ziele ist es die Grundlagen zu Variablen, Ein-/Ausgabe, Strings und Funktionen weiter zu vertiefen. Du arbeitest weiterhin mit einer Kommandozeile, Notepad++ und Python.
 
 ## A-01: Immer wieder das gleiche...
 
