@@ -30,4 +30,5 @@ Füge weitere Features zu Deinem Programm hinzu, wie
 
 # Weiterführende Literatur und Links
 
+- [Parser](https://de.wikipedia.org/wiki/Parser)
 - [Qt Beipsielprogramm](https://doc.qt.io/qtforpython/examples/example_widgets_mainwindows_application.html)
