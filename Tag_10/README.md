@@ -14,7 +14,7 @@ Deine heutigen Aufgaben beschäftigen sich mit Qt für Python. Du arbeitest mit 
 
 ## A-01: GitHub Projekt
 
-Führe immer einen commit aus wenn du ein neues Feature abgeschlossen hast. Lege ein Repository auf GitHub an, falls Du noch keins hast.
+Führe immer einen commit aus wenn Du ein neues Feature abgeschlossen hast. Lege ein Repository auf GitHub an, falls Du noch keins hast.
 
 ## A-02: Weitere Features
 
